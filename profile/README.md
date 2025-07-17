@@ -4,4 +4,5 @@ Paytring is a universal, feature-rich payment orchestration platform designed fo
 
 ## Contact Us
 
-For business-related queries, please write to us at support@paytring.com.
+For business-related queries, please write to us at [support@paytring.com](mailto:support@paytring.com).
+For DOcumentation please visit: [docs.paytring.com](https://docs.paytring.com)
